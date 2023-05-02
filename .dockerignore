@@ -1,0 +1,11 @@
+fly.toml
+Dockerfile
+.dockerignore
+node_modules
+.git
+
+.env
+dist
+mongo
+test
+.vscode
